@@ -38,11 +38,17 @@ This Power BI dashboard analyzes sales performance across regions, products, and
 
 # Key Insights
 
-- West region showed highest growth in Q4
+- Cash on Delivery is the most preferred payment method, indicating a strong customer preference for paying at the time of delivery rather than using prepaid options.
 
-- Technology category drives 45% of total profit
+- Standard Shipping is the most commonly selected shipping mode, suggesting that customers prioritize cost-effective delivery over expedited options.
 
-- Seasonal spike observed during November–December
+- The average shipping time is approximately 4 days, reflecting an efficient order fulfillment and logistics process.
+
+- The West region generates the highest overall sales, making it the top-performing region in terms of revenue contribution.
+
+- Sales peak in December, highlighting a clear seasonal trend likely driven by holiday and year-end shopping demand.
+
+- Profit is highest in October and December, with March also showing a notable increase in profitability, indicating multiple strong performance periods throughout the year.
 
 # How to Use
 
